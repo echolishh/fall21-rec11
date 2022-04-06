@@ -2,4 +2,5 @@
 **Fork** this repository to use for practicing Github flow.
 
 # Attendance
-[shenghu2]
+shenghu2
+zixinyin
